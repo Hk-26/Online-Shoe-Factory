@@ -1,2 +1,1 @@
-# Final-year-project
-Project
+A web-based e-commerce platform for purchasing shoes online, deployed on AWS EC2 for scalability and reliability. Built using PHP and XAMPP, this platform manages orders, payments, shipments, customers, and products efficiently.
